@@ -37,13 +37,3 @@ Write out your proposed algorithm in plain English or pseudocode AND give the ru
 
 This is in a 10 story theoretical building. 
 
-def dropEgg(10): 
-safeEgg = false 
-safeFloor = 0
-starting floor = n
-while safeEgg = false
-  if eggStatus == notCracked: 
-    return safeFloor = n 
-    safeEgg = true
-  else: 
-    return dropEgg(n - 1)
